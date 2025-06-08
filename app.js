@@ -53,5 +53,5 @@ else if (command === 'delete') {
   }
 
 } else {
-  console.log("Unknown command. Use 'read' or 'write'.");
+  console.log("please provide a valid command like 'read', 'write', or 'delete'.");
 }
